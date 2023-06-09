@@ -46,11 +46,18 @@ class data{
 };
 
 int main(){
-	data obj1;
+	int i;
 	
-	obj1.setter();
+	data obj;
 	
-	obj1.getter();
+	for(i=0; i<=4; i++){
+		obj.setter();	
+	}
+
+	for(i=0; i<=4; i++){
+		obj.getter();
+	}	
+	
 	
 	return 0;
 }
