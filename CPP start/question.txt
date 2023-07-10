@@ -1,0 +1,78 @@
+1.WAP to print message "hello world"
+2.WAP to print message "hello world" and "how are you"
+3.WAP to read number and display it 
+4.WAP to read number and display it with mesaage
+5.WAP to add two number
+6.WAP to subtract two number
+7.WAP to multiply two number
+8.WAP to divide two number
+9.WAP to find area of a rectangle
+10.WAP to find volume of a cube
+11.WAP to find area of a triangle
+12.WAP to calculate simple interest
+13.WAP to computer fahrenheit from centigrade
+14.WAP to calculate area of circle
+15.a company has following scheme for payment to their staff 
+    net salary = gross salary - deduction 
+    gross salary = basic salary+da+hra+medical
+    deduction=insurance+pf
+    WHERE 
+    da=50% of basic salary
+    hra=10% of basic salary
+    medical=4% of basic salary
+    pf=5% of gross salary
+    insurance =7% of gross salary
+16.Read the price of product (for example 12.50) and separate rupees and paisa from the inserted value
+    for example:12.50
+        12 rupees and 50 paisa 
+17.WAP for the following expression
+    d=ut+at^2
+18.WAP for the following expression
+    v=g*t
+    s=(g*t^2)/2
+
+
+
+
+
+19.WAP to read marks of a student from keyword and check whether the student is pass aor not
+20.WAP to read three number from keyword and find out maximum out of these three number
+21.WAP to read three number from keyword and program should display equivalent grade according to following
+        marks               grade
+        100-80              distinction
+        60-79               first class
+        35-59               second class
+        0-34                fail
+22.WAP to check whether the given number is positive negative or zero
+23.WAP for simple calculator
+24.WAP to find out given year which is leap year or not
+    a leap year is a year which is evenly divide by 4 but if it is evenly divisible by 100 then it is not a leap year but if it is evenly divisible by 400 then it is a leap year 
+25.WAP to display smallest number from three number using logical operator
+26.WAP to display largest number from three number using logical operator
+27.WAP to display middle number from three number using nested if statement
+28.WAP to accept marks of three subject.if the student is pass in all three subject then only calculate total marks percentage and grade otherwise display mesaage"the student is fail".
+29.WAP to find out smallest number from two number .also check for equality
+30.WAP for simple calculator (using switch case)
+31.WAP that read a number from 1 to 7 and according it should display Monday to sunday (using switch case)
+
+
+
+
+
+
+32.WAP to print "shree radhey krishna " five time use goto statement
+33.WAP to print first 10 natural number
+34.WAP to display first N number in reverse order using goto statement
+35.WAP to display only even number up to inputted number using goto statement
+36.WAP to display only odd number up to inputted number using goto statement
+37.WAP to display sum of first n number
+38.WAP to display sum of first 5 odd number
+38.WAP to display sum of first 5 even number
+39.WAP to find factorial of a given number
+
+
+
+
+
+
+
